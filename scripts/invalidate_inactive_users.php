@@ -190,7 +190,7 @@ foreach ($users as $user)
       'email' => $email,
       'id' => $id,
       'lastlogin' => $lastLoginInDays,
-      'notice' => "3",
+      'notice' => "0",
       'delete' => "1"
     );
   }
